@@ -6,7 +6,8 @@ excerpt: "In every struggle, there is a rose"
 tags: [Rose, Potato]
 comments: true
 ---
-![Rusted Candy Machine]({{site.baseurl}}/_images/MidnightRose.jpg)
+![Midnight Rose]({{site.baseurl}}/_images/MidnightRose.jpg)
+
 From the open window, the celestial bodies gazed at the figure busy at his desk. He did not turn to recognize them. He was caught up in his own project: Folding, creasing, fumbling. The art of his hands had just produced a fumbled creased folding. It was a rose, at least in the maker’s plan, but the result was indiscernible. It was sure to be confused with a flimsy cactus, a venus fly trap, or even a red potato. 
 
 Swoosh. Another 3-pointer into the wired-trash bin beside his bed. A small success amidst a slew of failures. And with one paper left, this one had to be done right. Adjusting the dim reading lamp from the desk, he set up his studio for one last take at botanical paper. 
