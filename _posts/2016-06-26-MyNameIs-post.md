@@ -3,7 +3,7 @@ layout: post
 title: "My Name Is..."
 date: 2016-06-26
 excerpt: "It starts with a potato chip."
-tags: [Rose, Potato]
+tags: [Chips, Potato, The End of the World]
 comments: true
 ---
 ![Moldy Potato Chip]({{site.baseurl}}/_images/MoldyChip.jpg)
