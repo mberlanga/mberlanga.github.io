@@ -52,7 +52,7 @@ Lenny face twisted.
 
 “Oh nonono. Kid you need to demean him. Make him feel worthless”
 
-“Pssshhh. What I meant was, your hat looks pretty #reddd#. As in the blood that will come out if you don’t give me like, free cigarettes.”
+“Pssshhh. What I meant was, your hat looks pretty *reddd.* As in the blood that will come out if you don’t give me like, free cigarettes.”
 
 “I don’t mean to interrupt, but ugh, I’m not feeling it at all,” announced the clerk.
 
