@@ -80,6 +80,7 @@ Shit I thought. Did  this just happen again? Even a simple heist gone wrong. The
 
 “Ugh jeez. Corrupt Cops?”
 Wow good one. I would have never thought of that. 
-“Alright kid well we should get going. Take care,” Lenny shook my hand and waved off as they got in their squad car. One could even see some hair follicles in the grill, probably from the jaywalker they had hit. 
+
+“Alright kid well we should get going. Take care.” Lenny shook my hand and waved off as they got in their squad car. One could even see some hair follicles in the grill, probably from the jaywalker they had hit. 
 
 I took out the pack the Cops had given me and began to smoke, each stick one step closer to cancer. This was just another small setback. I planned to hit once again in the future. My name would be well-known by heroes and villains alike. I would no longer be called “Misdaemenor,” by all my friends.
