@@ -20,14 +20,14 @@ After a year of recovering, I built up the courage to finally get my own firearm
 
 My crime that day was dictated by my low supply of cigarettes. I figured the local 7-11 would be an easy target. Walking in, gun in butt pocket (to look badass), I swaggered through the door and pretended look at the merch. Cheetos yeah, let them think I want to buy cheetos. Course as luck would have it, two police officers walked into the building as I purused the cheesy wares of the shop, and I was stuck between a rock and a hard place. I’d never thought about killing a cop before, and two? Oh man, I didn’t want the name “Blue Slurpee.” If I just act cool, they would be in and out. 
 
-“Hey there buddy! You got a permission to pack in public?” His badge read: Lenny Miller PD
+“Hey there buddy! You got a permission to pack in public?” His badge read: Lenny Miller PD. Shit I guess the butt pocket thing was only in the movies.
 
 “Ahhh yeah. I left my registration at home.”
 
 “Ah shit I know that feeling, isn’t that right Reggie?”
 
 “Oh yeah man. Didn’t you leave yours once in a hookers place?"
-"
+
 “Fuck that’s right, don’t tell the old lady though,” the Lenny chuckled.
 
 “Alright, well we’ll get out of your hair. Just don’t go robbing this joint alright, even if their cigarette prices are satanic,” Lenny winked and snapped his fingers toward me as if he was almost encouraging me to pull the job off right now.
