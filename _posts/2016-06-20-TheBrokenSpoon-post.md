@@ -21,7 +21,9 @@ Beep. Beep. Beep. Wrrrrr clunk.
 “I’ll let you mind run wild there bro. Actually, can you hand me the drill in my bag there. There’s a few rusted screws here. I think if we can release them from the ground we can steal this bad boy… Red?”
 
 “Yeah yeah I’m looking dude! Ah shit! Looks like we forgot to pack it.” Red got up from crouching and stood a full 6’ 3”. Swaying his way to friend down near the screws, he inspected the situation. Sure enough, four medium screws nailed each corner of the machine to the studio floor. Red began to tap his chin, and for a few moments, the only sounds in the studio alley were the impulses of Red’s brain ticking. 
-“You know I still have some plastic spoons from lunch today in my backpack.” after full minute of silence. “I never did end up eating my yogurt.”
+
+
+“You know I still have some plastic spoons from lunch today in my backpack,” said after full minute of silence. “I never did end up eating my yogurt.”
 Kelsen’s face began to twist to show a mix between confusion, disbelief, and utter loss of faith in his friend. 
 “Hey don’t give me that look man, least it’s an idea.” defended Red. 
 
@@ -37,7 +39,7 @@ Kelsen’s face began to twist to show a mix between confusion, disbelief, and u
 
 “Spoon…”
 
-Red walked over to the far end of the studio alley and  zipped open his flopped-over backpack and pulled out his lunch bag. And as suspected, Red found his plastic spoon right next to the yogurt he did not eat. Red walked back with pride, “finally” he thought, “something I can help with.”
+Red walked over to the far end of the studio alley and  zipped open his flopped-over backpack and pulled out his lunch bag. As suspected, Red found his plastic spoon right next to the yogurt he did not eat. Red walked back with pride, “finally” he thought, “something I can help with.”
 
 “Here Kels”
 
