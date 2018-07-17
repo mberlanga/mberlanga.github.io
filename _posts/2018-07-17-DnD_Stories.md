@@ -12,7 +12,7 @@ tag:
 - Krung
 comments: true
 ---
-![SkateCow]({{site.baseurl}}/assets/img/SkateboardCow.png)  
+![SkateCow](https://github.com/mberlanga/mberlanga.github.io/blob/master/assets/img/SkateboardCow.png)  
     
 <center><b>DnDeeds Universe</b></center> 
     
