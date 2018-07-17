@@ -3,7 +3,7 @@ layout: post
 title: "DnDeed BackStory"
 date: 2018-07-17
 excerpt: "The Stories that lie within DnDeed Universe"
-project: true
+DnD Storyline: true
 tag: 
 -DnDeeds
 -Orcs
