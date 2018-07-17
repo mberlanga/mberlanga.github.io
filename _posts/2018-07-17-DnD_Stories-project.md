@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "DnDeed BackStory"
 date: 2018-07-17
 excerpt: "The Stories that lie within DnDeed Universe"
