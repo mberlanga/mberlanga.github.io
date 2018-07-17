@@ -13,8 +13,18 @@ tag:
 comments: true
 ---
 
-#![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+    #![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
-<center><b>DnDeeds Universe</b> The Backdrop on a Beautiful Story of Drugs, Hate, and a Group of Losers</center>
+<center><b>DnDeeds Universe</b></center> 
+    
+<center>The Backdrop on a Beautiful Story of Drugs, Hate, and a Group of Losers</center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+Schaft Phallus Backstory:
+
+Fin Finbar Backstory:
+
+Memus Arrdankk Backstory:
+
+Chungus the Great Backstory:
+
+Schmol Josteen Backstory:
