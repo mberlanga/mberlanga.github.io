@@ -12,7 +12,7 @@ tag:
 - Krung
 comments: true
 ---
-![MoonBase]({{site.baseurl}}/_images/RustedCandyMachine.jpg)  
+![SkateCow]({{site.baseurl}}/assets/SkateboardCow.png)  
     
 <center><b>DnDeeds Universe</b></center> 
     
