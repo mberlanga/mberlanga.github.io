@@ -13,12 +13,12 @@ tag:
 comments: true
 ---
 
-Schaft Phallus Backstory:
+Schaft Phallus Backstory
 
-Finbar Fergus Backstory:
+Finbar Fergus Backstory
 
-Memus Ardankk Backstory:
+Memus Ardankk Backstory
 
-Chungus the Great Backstory:
+Chungus the Great Backstory
 
-Schmol Josteen Backstory:
+Schmol Josteen Backstory
