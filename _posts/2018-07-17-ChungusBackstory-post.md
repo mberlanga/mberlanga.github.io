@@ -3,7 +3,7 @@ layout: post
 title: "Chungus the Great Backstory"
 date: 2018-07-17
 excerpt: "They Call Him the Great..."
-tags: [Chungus, The Old Man, Lake Esmull, Young Tickles, Sorcerer]
+tags: [Chungus, The Old Man, Lake Esmull, Young Tickles, Sorcerer, God - Himself?]
 comments: true
 ---
 
