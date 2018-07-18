@@ -7,6 +7,8 @@ tags: [Grisslebirch, Rammus, Schaft, Whortlekrungus, Paladin , Goddess - Ehlonna
 comments: true
 ---
 
+![Schaft Picture]({{site.baseurl}}/_images/SchaftPic.png)
+
 It is well known that by the marshes on the east side of Lake Esmull, a tribe of half orcs reside. Many call them the “Ashleaves,” due to constant smoking of Whortlekrungus which grows bountiful and wild in the area. There is constant euphoric white smoke surrounding the marsh, and many attribute it to the regular burning of Whortlekrungus done by the Ashleaves. 
 
 The history behind the Ashleaves begins after the Great Pillage of Krunglelungus, the dominant Orc Leader two hundred years ago. Krunglelungus can be described in what we can consider in our perspective as the great Genghis Khan, spreading his seed across the land and fornicating with many races. Of which, humans were a regular pleasure enjoyed by Krunglelungus. After a near hundred years of domination in the area, the great reign of Krunglelungus fell, due to political infighting, inbreeding, and most importantly, an overdose of Black Grengal, more commonly known now in street terms as “Body Bag,” due to its high potential to cause overdose and death at the reward of the most ultimate euphoria. Those who have taken it and survived have reported “living their whole lives backwards to forwards, and then redoing all the mistakes they ever made.”
