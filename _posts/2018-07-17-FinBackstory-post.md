@@ -3,7 +3,7 @@ layout: post
 title: "Finbar Fergus Backstory"
 date: 2018-07-17
 excerpt: ""
-tags: [Orphan, Bar-Lurker,The Murk, Rogue, God - $$$]
+tags: [Orphan, Bar-Lurker,The Murk, Rogue, God - Fharlanghn]
 comments: true
 ---
 
