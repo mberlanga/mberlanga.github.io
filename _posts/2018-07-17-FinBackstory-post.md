@@ -7,6 +7,8 @@ tags: [Orphan, Bar-Lurker,The Murk, Rogue, God - Fharlanghn]
 comments: true
 ---
 
+![Schaft Picture]({{site.baseurl}}/_images/FinPic.jpg)
+
 Off the rushing waters of the Volm river lies the port city of Murkshire. Before the Pillage of Krunglelungus, Murkshire was a great center for shipping. The wealth brought through trade helped it grow into a beautiful, ornate city with rich canals and even richer patrons. But that all changed when the Orcs came. Under Krunglelungus’ orders, the city was razed and ruined. Its once magnificent carved wooden buildings were no more.
 Murkshire was rebuilt but the restoration of the trade center was never complete. The close maze of wooden apartments and shops leaned rather than towered over the narrow passageways of the city. The once romantic canals became nearly stagnant as the debris from the razing clogged them. Both the city and its people had changed in character. The Murk, as it is referred to now, has become a central dwelling for miscreants instead of merchants.
 ***
