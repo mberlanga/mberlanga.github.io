@@ -3,7 +3,7 @@ layout: post
 title: "Schmol Josteen Backstory"
 date: 2018-07-17
 excerpt: ""
-tags: [Schmol, Salesman, Snake Oil, God:Kol Korran, Cleric]
+tags: [Schmol, Salesman, Snake Oil, God-Kol Korran, Cleric]
 comments: true
 ---
 
