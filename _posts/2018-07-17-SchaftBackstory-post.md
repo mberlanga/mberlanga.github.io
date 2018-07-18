@@ -3,7 +3,7 @@ layout: post
 title: "Schaft Phallus Backstory"
 date: 2018-07-27
 excerpt: "Brawn is his trait, and no Brains to-date"
-tags: [Grisslebirch, Rammus, Schaft, Whortlekrungus, Paladin]
+tags: [Grisslebirch, Rammus, Schaft, Whortlekrungus, Paladin , Goddess - Ehlonna]
 comments: true
 ---
 
